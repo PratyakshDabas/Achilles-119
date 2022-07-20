@@ -101,7 +101,7 @@ body {
 
 .about-photo{
     height: 400px;
-    width: 600px;
+/*     width: 600px; */
     background-image: url("https://media.giphy.com/media/fTz2gJRh37GpDaiiyD/giphy.gif");
     background-position: center;
     display: block;
@@ -121,7 +121,7 @@ body {
 
 .beauty1{
     height: 300px;
-    width: 600px;
+/*     width: 600px; */
     margin: 100px auto;
     background-image: url("https://media.giphy.com/media/lCSABZRhMw6pW/giphy.gif");
     background-position: center;
@@ -131,7 +131,7 @@ body {
 
 .beauty2{
     height: 500px;
-    width: 500px;
+/*     width: 500px; */
     margin: 100px auto;
     background-image: url("https://media.giphy.com/media/YrIq06kG5yrtxQEhj3/giphy.gif");
     background-position: center;
@@ -140,7 +140,7 @@ body {
 
 .beauty3{
     height: 500px;
-    width: 500px;
+/*     width: 500px; */
     margin: 100px auto;
     background-image: url("https://media.giphy.com/media/OjqZEjh8vUq1VKbgdy/giphy.gif");
     background-position: center;
